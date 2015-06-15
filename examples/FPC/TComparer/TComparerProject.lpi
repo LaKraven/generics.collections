@@ -10,7 +10,7 @@
       </Flags>
       <SessionStorage Value="InProjectDir"/>
       <MainUnit Value="0"/>
-      <Title Value="THashMapCaseInsensitive"/>
+      <Title Value="TComparerProject"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -33,7 +33,7 @@
     </RunParams>
     <Units Count="1">
       <Unit0>
-        <Filename Value="THashMapCaseInsensitive.lpr"/>
+        <Filename Value="TComparerProject.lpr"/>
         <IsPartOfProject Value="True"/>
       </Unit0>
     </Units>
@@ -42,11 +42,11 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="THashMapCaseInsensitive"/>
+      <Filename Value="TComparerProject"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="..\..\src"/>
+      <OtherUnitFiles Value="..\..\..\src"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
   </CompilerOptions>
